@@ -1,2 +1,2 @@
 v1.0=online
-v2.0=online
+v2.0=offline
